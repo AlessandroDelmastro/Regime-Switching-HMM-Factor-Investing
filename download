@@ -1,0 +1,7 @@
+# SPY prices from Yahoo Finance: downloaded by the code if missing
+data/spy_daily.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
